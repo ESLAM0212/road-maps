@@ -1,2 +1,2 @@
 # road-maps
-## kidding road map but real gradient of certificates
+## kidding road map but real sequance of certificates
